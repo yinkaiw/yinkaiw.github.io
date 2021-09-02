@@ -26,6 +26,7 @@ Check out my [CV](https://yinkaiw.github.io/cv/)
 
 
 **News!**
+* 8/28 Paper titled "Deep Latent-Variable Models for Controllable Molecule Generation" in submission for BIBM 2021.
 * 8/7 Congrats to get top 20% on Kaggle competition 'Google Smartphone Decimeter Challenge'.
 * 5/22 I start working with Prof. Antonios Anastasopoulos on multilingual Natural Language Processing.
 * 4/21 Paper titled "Ensemble Machine Learning System for Student Academic Performance Prediction" is accepted by W4U workshop @EDM 2021.
