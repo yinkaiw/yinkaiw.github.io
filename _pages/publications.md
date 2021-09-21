@@ -6,7 +6,7 @@ author_profile: true
 ---
 Papers
 ======
- * Deep Latent-Variable Models for Controllable Molecule Generation. Yuanqi Du, **Yinkai Wang**, Fardina Alam, Yuanjie Lu, Xiaojie Guo, Liang Zhao, Amarda Shehu. Research Paper for IEEE BIBM 2021(In Submission).
+ * Deep Latent-Variable Models for Controllable Molecule Generation. Yuanqi Du, **Yinkai Wang**, Fardina Alam, Yuanjie Lu, Xiaojie Guo, Liang Zhao, Amarda Shehu. Research Paper for IEEE BIBM 2021.
 
 Workshops
 ======
