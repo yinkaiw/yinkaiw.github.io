@@ -11,7 +11,6 @@ Papers
 
 Workshops
 ======
-* Improved Student Performance Prediction via Ensemble Machine Learning. **Yinkai Wang***, Kaiyi Guan*, Aowei Ding*, Shixi Wu*, Yuanqi Du. Research Paper for Neurips 2021(In submission)
 * Ensemble Machine Learning System for Student Academic Performance Prediction. **Yinkai Wang\***, Kaiyi Guan\*, Aowei Ding\*, Yuanqi Du. Research Paper in Workshop for Undergraduates in Educational Data Mining and Learning Engineering (W4U) @EDM 2021.
 
 
