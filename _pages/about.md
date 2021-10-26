@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yinkai Wang is a senior student major in  Computer Science at George Mason University. He has interests in multilingual Natural Language Processing, Machine Learning and CV. He works on Named Entity Recognition, Protein Structure Prediction, Molecule Generatio and Educational Data Mining. He worked with Prof. Antonios Anastasopoulos, Dr. Liang Zhao, Dr. Amarda Shehu. 
+Yinkai Wang is a senior student major in  Computer Science at George Mason University. He has interests in multilingual Natural Language Processing, Machine Learning and CV. He works on Named Entity Recognition, Protein Structure Prediction, Molecule Generation and Educational Data Mining. He worked with Prof. Antonios Anastasopoulos, Dr. Liang Zhao, Dr. Amarda Shehu. 
 
 **Drop me an email if you'd like to talk about/collaborate on any of the following research topics with me.**
 
