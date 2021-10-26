@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Fall 2022: Scholar
+* Fall 2021: Scholar
   * Commonwealth Cyber Initiative, NoVa Node
 * Spring 2021: Intern
   * Bytedance
