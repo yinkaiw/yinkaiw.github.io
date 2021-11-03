@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* Fall 2021: Researcher
+  * VDIG lab, Peking University
 * Fall 2021: Scholar
   * Commonwealth Cyber Initiative, NoVa Node
 * Spring 2021: Intern
