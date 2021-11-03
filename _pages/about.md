@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yinkai Wang is a senior student major in  Computer Science at George Mason University. He has interests in multilingual Natural Language Processing, Machine Learning and CV. He works on Named Entity Recognition, Protein Structure Prediction, Molecule Generation and Educational Data Mining. He worked with [Prof. Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/), [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/), [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/?q=People). He participated in CCI as scholar with [Dr. Daniel Barbará](https://care.gmu.edu/barbara/). 
+Yinkai Wang is a senior student major in  Computer Science at George Mason University. He has interests in multilingual Natural Language Processing, Machine Learning and CV. He works on Named Entity Recognition, Protein Structure Prediction, Molecule Generation and Educational Data Mining. He worked with [Dr. Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/), [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/), [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/?q=People). He participated in CCI as scholar with [Dr. Daniel Barbará](https://care.gmu.edu/barbara/). He act as intern in Peking University VDIG lab with [Dr. Yongtao Wang](https://dl.acm.org/profile/81486645230).
 
 **Drop me an email if you'd like to talk about/collaborate on any of the following research topics with me.**
 
@@ -23,6 +23,7 @@ and [a pdf version](https://yinkaiw.github.io/files/Yinkai_Wang_CV.pdf).
 **Research Interests**
   * Natural Language Processing
   * Deep Graph Learning
+  * Object Detection
   * AI for Science (Biology/Physics/etc)
   * Machine Learning for Discovery 
 
