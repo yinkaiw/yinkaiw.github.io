@@ -15,7 +15,7 @@ Yinkai Wang is a senior student major in  Computer Science at George Mason Unive
 **I am open to opportunities in paper review, tutorial, workshop organization in data mining, machine learning, multilingual Natural Language Processing, CV, Deep Graph Learning related topics.**
 
 Check out my [CV](https://yinkaiw.github.io/cv/)
-and [a pdf version](https://yinkaiw.github.io/files/CV_Yinkai.pdf).
+and [a pdf version](https://yinkaiw.github.io/files/CV-Yinkai Wang.pdf).
 
 
 
