@@ -11,6 +11,6 @@ List of Services:
 
 Review Service
 ======
-* KDD-DLG(2022)
+* AAAI-DLG(2022)
 
 
