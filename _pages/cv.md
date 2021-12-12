@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* Fall 2021: Research Intern
+  * JD.com
 * Fall 2021: Researcher
   * VDIG lab, Peking University
 * Fall 2021: Scholar
@@ -28,5 +30,6 @@ Skills
 * Programming (Python, Java, C++, Assembly Language, LaTeX, Kotlin)
 * Machine Learning
 * NLP
+* CV
 * Data Mining
 * Languages: English, Chinese
