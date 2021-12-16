@@ -11,4 +11,4 @@ Papers
 
 Workshops
 ======
-* Graph-based Ensemble Machine Learning for Student Performance Prediction **Yinkai Wang\***, Kaiyi Guan\*, Aowei Ding\*, Shixi Wu, Yuanqi Du. Research Paper in Workshop accepted by AAAI (AI4EDU, DLG'22).
+* [Graph-based Ensemble Machine Learning for Student Performance Prediction](https://arxiv.org/abs/2112.07893) **Yinkai Wang\***, Kaiyi Guan\*, Aowei Ding\*, Shixi Wu, Yuanqi Du. Research Paper in Workshop accepted by AAAI (AI4EDU, DLG'22).
