@@ -29,6 +29,7 @@ and [a pdf version](https://yinkaiw.github.io/files/CV_Yinkai.pdf).
 
 
 **News!**
+* 02/17 Paper titled " Dataset Geography: Mapping Language Data to Language Users." has been accepted by ACL 2022.
 * 12/14 Start working with Dr. Lingfei Wu and Dr. Xiaojie Guo in JD.com.
 * 12/7 Paper titled "Graph-based Ensemble Machine Learning for Student Performance Prediction" has been accepted in AAAI(AI4EDU, DLG'22).
 * 11/26 I act as reviewer in AAAI-DLG'22.
