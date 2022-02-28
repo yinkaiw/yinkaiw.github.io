@@ -6,7 +6,7 @@ author_profile: true
 ---
 Papers
 ======
- * [Dataset Geography: Mapping Language Data to Language Users.](https://arxiv.org/abs/2112.03497) Fahim Faisal, **Yinkai Wang**, Antonis Anastasopoulos. Research paper for ACL 2022 Theme Track. (In submission)
+ * [Dataset Geography: Mapping Language Data to Language Users.](https://arxiv.org/abs/2112.03497) Fahim Faisal, **Yinkai Wang**, Antonis Anastasopoulos. Research paper for ACL 2022.
  * Deep Latent-Variable Models for Controllable Molecule Generation. Yuanqi Du, **Yinkai Wang**, Fardina Alam, Yuanjie Lu, Xiaojie Guo, Liang Zhao, Amarda Shehu. Research Paper for IEEE BIBM 2021.
 
 Workshops
