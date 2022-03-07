@@ -6,9 +6,9 @@ author_profile: true
 ---
 Papers
 ======
- * A Survey on Deep Graph Generation: Methods and Applications. Yanqiao Zhu\*, Yuanqi Du\*, **Yinkai Wang\***, Jieyu Zhang, Qiang Liu, Shu WuSurvey on IJCAI-22.
+ * A Survey on Deep Graph Generation: Methods and Applications. Yanqiao Zhu\*, Yuanqi Du\*, **Yinkai Wang\***, Jieyu Zhang, Qiang Liu, Shu Wu. Survey on IJCAI-22.
  * Small Molecule Generation]{Small Molecule Generation via Disentangled Representation Learning Yuanqi Du, Xiaojie Guo, **Yinkai Wang**, Amarda Shehu, Liang
-Zhao. Research paper for Structural Bioinformatics. (In submission)
+Zhao. Research paper for Bioinformatics. (In submission)
  * [Dataset Geography: Mapping Language Data to Language Users.](https://arxiv.org/abs/2112.03497) Fahim Faisal, **Yinkai Wang**, Antonis Anastasopoulos. Research paper for ACL 2022.
  * Deep Latent-Variable Models for Controllable Molecule Generation. Yuanqi Du, **Yinkai Wang**, Fardina Alam, Yuanjie Lu, Xiaojie Guo, Liang Zhao, Amarda Shehu. Research Paper for IEEE BIBM 2021.
 
