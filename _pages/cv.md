@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, George Mason University, 2018-Expected 2021
+* PhD in Computer Science, Tufts University, 2022-Expected 2027
+* B.S. in Computer Science, George Mason University, 2018-2022
 * B.S. in Computer Science, Huaqiao University, 2017-2018
 
 Work experience
