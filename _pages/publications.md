@@ -6,8 +6,8 @@ author_profile: true
 ---
 Papers
 ======
- * A Survey on Deep Graph Generation: Methods and Applications. **Yinkai Wang\***, Yanqiao Zhu\*, Yuanqi Du\*, Jieyu Zhang, Qiang Liu, Shu Wu. Survey on IJCAI-22.(In submission)
- * Small Molecule Generation via Disentangled Representation Learning. Yuanqi Du, Xiaojie Guo, **Yinkai Wang**, Amarda Shehu, Liang Zhao. Research paper for Bioinformatics. 
+ * [A Survey on Deep Graph Generation: Methods and Applications.](https://openreview.net/forum?id=Im8G9R1boQi) **Yinkai Wang\***, Yanqiao Zhu\*, Yuanqi Du\*, Jieyu Zhang, Qiang Liu, Shu Wu. Survey on LoG.
+ * [Small Molecule Generation via Disentangled Representation Learning.](https://academic.oup.com/bioinformatics/article-abstract/38/12/3200/6576627) Yuanqi Du, Xiaojie Guo, **Yinkai Wang**, Amarda Shehu, Liang Zhao. Research paper for Bioinformatics. 
  * [Dataset Geography: Mapping Language Data to Language Users.](https://arxiv.org/abs/2112.03497) Fahim Faisal, **Yinkai Wang**, Antonis Anastasopoulos. Research paper for ACL 2022.
  * [Deep Latent-Variable Models for Controllable Molecule Generation.](https://ieeexplore.ieee.org/document/9669692) Yuanqi Du, **Yinkai Wang**, Fardina Alam, Yuanjie Lu, Xiaojie Guo, Liang Zhao, Amarda Shehu. Research Paper for IEEE BIBM 2021.
  * [Multi-objective Deep Data Generation with Correlated Property Control](https://arxiv.org/abs/2210.01796) Shiyu Wang, Xiaojie Guo, Xuanyang Lin, Bo Pan, Yuanqi Du, **Yinkai Wang**, Yanfang Ye, Ashley Ann Petersen, Austin Leitgeb, Saleh AlKhalifa, Kevin Minbiole, Bill Wuest, Amarda Shehu, Liang Zhao. Research Paper for NeurIPS 2022.
