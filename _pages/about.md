@@ -30,18 +30,19 @@ and [a pdf version](https://yinkaiw.github.io/files/CV_Yinkai.pdf).
 
 
 **News!**
-* 09/14 Paper titled "Multi-objective Deep Data Generation with Correlated Property Control" has been accepted by NeurIPS 2022.
-* 06/26 Paper titled "Property-Controllable Generation of Quaternary Ammounium Compounds" has been accepted by DLG-KDD 2022.
-* 06/11 I act as reviewer in BIOKDD 2022.
-* 04/04 I am happy to announce that I am accepted to Tufts University for PhD program in Computer Science with Dr. Soha Hassoun.
-* 03/16 Paper titled "Small Molecule Generation via Disentangled Representation Learning. " has been accepted by Bioinformatics.
-* 02/17 Paper titled " Dataset Geography: Mapping Language Data to Language Users." has been accepted by ACL 2022.
-* 12/14 Start working with Dr. Lingfei Wu and Dr. Xiaojie Guo in JD.com.
-* 12/7 Paper titled "Graph-based Ensemble Machine Learning for Student Performance Prediction" has been accepted in AAAI(AI4EDU, DLG'22).
-* 11/26 I act as reviewer in AAAI-DLG'22.
-* 10/21 Paper titled “Deep Latent-Variable Models for Controllable Molecule Generation” has been accepted in BIBM 2021.
-* 10/18 Congrats to be selected to participate in CCI Scholars.
-* 8/7 Congrats to get top 20% on Kaggle competition 'Google Smartphone Decimeter Challenge'.
-* 5/22 I start working with Prof. Antonios Anastasopoulos on multilingual Natural Language Processing.
-* 4/21 Paper titled "Ensemble Machine Learning System for Student Academic Performance Prediction" is accepted by W4U workshop @EDM 2021.
-* 3/31 Accepted to be a ByteDance Intern.
+* 09/29/23 Paper titled "On Separate Normalization in Self-supervised Transformers" has been accepted by NrueIPS 2023.
+* 09/14/22 Paper titled "Multi-objective Deep Data Generation with Correlated Property Control" has been accepted by NeurIPS 2022.
+* 06/26/22 Paper titled "Property-Controllable Generation of Quaternary Ammounium Compounds" has been accepted by DLG-KDD 2022.
+* 06/11/22 I act as reviewer in BIOKDD 2022.
+* 04/04/22 I am happy to announce that I am accepted to Tufts University for PhD program in Computer Science with Dr. Soha Hassoun.
+* 03/16/22 Paper titled "Small Molecule Generation via Disentangled Representation Learning. " has been accepted by Bioinformatics.
+* 02/17/22 Paper titled " Dataset Geography: Mapping Language Data to Language Users." has been accepted by ACL 2022.
+* 12/14/21 Start working with Dr. Lingfei Wu and Dr. Xiaojie Guo in JD.com.
+* 12/7/21 Paper titled "Graph-based Ensemble Machine Learning for Student Performance Prediction" has been accepted in AAAI(AI4EDU, DLG'22).
+* 11/26/21 I act as reviewer in AAAI-DLG'22.
+* 10/21/21 Paper titled “Deep Latent-Variable Models for Controllable Molecule Generation” has been accepted in BIBM 2021.
+* 10/18/21 Congrats to be selected to participate in CCI Scholars.
+* 08/07/21 Congrats to get top 20% on Kaggle competition 'Google Smartphone Decimeter Challenge'.
+* 05/22/21 I start working with Prof. Antonios Anastasopoulos on multilingual Natural Language Processing.
+* 04/21/21 Paper titled "Ensemble Machine Learning System for Student Academic Performance Prediction" is accepted by W4U workshop @EDM 2021.
+* 03/31/21 Accepted to be a ByteDance Intern.
