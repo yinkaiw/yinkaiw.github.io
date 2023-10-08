@@ -6,6 +6,7 @@ author_profile: true
 ---
 Papers
 ======
+ * [On Separate Normalization in Self-supervised Transformers](https://neurips.cc/virtual/2023/poster/71078) Xiaohui Chen, **Yinkai Wang**, Yuanqi Du, Soha Hassoun, Liping Liu. Research paper for NeurIPS 2023.
  * [A Survey on Deep Graph Generation: Methods and Applications.](https://openreview.net/forum?id=Im8G9R1boQi) **Yinkai Wang\***, Yanqiao Zhu\*, Yuanqi Du\*, Jieyu Zhang, Qiang Liu, Shu Wu. Survey on LoG.
  * [Small Molecule Generation via Disentangled Representation Learning.](https://academic.oup.com/bioinformatics/article-abstract/38/12/3200/6576627) Yuanqi Du, Xiaojie Guo, **Yinkai Wang**, Amarda Shehu, Liang Zhao. Research paper for Bioinformatics. 
  * [Dataset Geography: Mapping Language Data to Language Users.](https://arxiv.org/abs/2112.03497) Fahim Faisal, **Yinkai Wang**, Antonis Anastasopoulos. Research paper for ACL 2022.
