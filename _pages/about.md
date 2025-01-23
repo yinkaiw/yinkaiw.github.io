@@ -30,7 +30,8 @@ and [a pdf version](https://yinkaiw.github.io/files/CV_Yinkai.pdf).
 
 
 **News!**
-* 09/29/23 Paper titled "On Separate Normalization in Self-supervised Transformers" has been accepted by NrueIPS 2023.
+* 01/22/25 Paper titled "MADGEN - Mass-Spec attends to De Novo Molecular generation" has been accepted by ICLR 2025.
+* 09/29/23 Paper titled "On Separate Normalization in Self-supervised Transformers" has been accepted by NeurIPS 2023.
 * 09/14/22 Paper titled "Multi-objective Deep Data Generation with Correlated Property Control" has been accepted by NeurIPS 2022.
 * 06/26/22 Paper titled "Property-Controllable Generation of Quaternary Ammounium Compounds" has been accepted by DLG-KDD 2022.
 * 06/11/22 I act as reviewer in BIOKDD 2022.
