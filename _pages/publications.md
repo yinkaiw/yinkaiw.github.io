@@ -6,6 +6,7 @@ author_profile: true
 ---
 Papers
 ======
+ * [Large Language Model is Secretly a Protein Sequence Optimizer](https://arxiv.org/abs/2501.09274) **Yinkai Wang**, Jiaxing He, Yuanqi Du, Xiaohui Chen, Jianan Canal Li, Li-Ping Liu, Xiaolin Xu, Soha Hassoun. Research paper on Arxiv.
  * [MADGEN -- Mass-Spec attends to De Novo Molecular generation](https://arxiv.org/abs/2501.01950) **Yinkai Wang**, Xiaohui Chen, Liping Liu, Soha Hassoun. Preprint on Arxiv.
  * [Graph Generative Pre-trained Transformer](https://arxiv.org/abs/2501.01073) Xiaohui Chen, **Yinkai Wang**, Jiaxing He, Yuanqi Du, Xiaolin Xu, Soha Hassoun, Li-Ping Liu. Preprint on Arxiv.
  * [On Separate Normalization in Self-supervised Transformers](https://neurips.cc/virtual/2023/poster/71078) Xiaohui Chen, **Yinkai Wang**, Yuanqi Du, Soha Hassoun, Liping Liu. Research paper for NeurIPS 2023.
