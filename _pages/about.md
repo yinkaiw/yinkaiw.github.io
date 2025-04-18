@@ -15,7 +15,7 @@ Yinkai Wang is a PhD candidate at Tufts University. He works on Protein Structur
 **I am open to opportunities in paper review, tutorial, workshop organization in bioinformatics, data mining, machine learning, multilingual Natural Language Processing, CV, Deep Graph Learning related topics.**
 
 Check out my [CV](https://yinkaiw.github.io/cv/)
-and [a pdf version](https://github.com/yinkaiw/yinkaiw.github.io/blob/master/files/Yinkai_Wang_resume.pdf).
+and [a pdf version](https://yinkaiw.github.io/files/Yinkai_Wang_resume.pdf).
 
 
 
