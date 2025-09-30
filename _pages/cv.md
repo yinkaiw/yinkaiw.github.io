@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* Summer 2025: Research Intern
+  * Stanford X AutoBio
 * Fall 2021: Research Intern
   * JD.com
 * Fall 2021: Researcher
