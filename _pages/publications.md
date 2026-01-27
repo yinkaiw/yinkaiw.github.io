@@ -6,9 +6,12 @@ author_profile: true
 ---
 Papers
 ======
+ * [SpecBridge: Bridging Mass Spectrometry and Molecular Representations via Cross-Modal Alignment](https://arxiv.org/abs/2601.17204) **Yinkai Wang**, Yan Zhou Chen, Xiaohui Chen, Li-Ping Liu, Soha Hassoun. Preprint on Arxiv
+ * [Evaluating Large Language Models in Scientific Discovery](https://arxiv.org/abs/2512.15567) Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu, Thomas M. Pruyn, Yue Huang, Kehan Guo,  Xiuzhe Luo, Yuanhao Qu, Yi Qu, **Yinkai Wang**. (and 46 others). Preprint on Arxiv
+ * [LabOS: The AI-XR Co-Scientist That Sees and Works With Humans](https://arxiv.org/pdf/2510.14861) Le Cong, Zaixi Zhang, Xiaotong Wang, Yin Di, Ruofan Jin, Michal Gerasimiuk, **Yinkai Wang**. (and 13 others). Preprint on Arxiv
  * [Large Language Model is Secretly a Protein Sequence Optimizer](https://arxiv.org/abs/2501.09274) **Yinkai Wang**, Jiaxing He, Yuanqi Du, Xiaohui Chen, Jianan Canal Li, Li-Ping Liu, Xiaolin Xu, Soha Hassoun. Research paper for ICLR LMRL workshop.
  * [MADGEN: Mass-Spec attends to De Novo Molecular generation](https://arxiv.org/abs/2501.01950) **Yinkai Wang**, Xiaohui Chen, Liping Liu, Soha Hassoun. Reasrch paper for ICLR 2025.
- * [Graph Generative Pre-trained Transformer](https://arxiv.org/abs/2501.01073) Xiaohui Chen, **Yinkai Wang**, Jiaxing He, Yuanqi Du, Xiaolin Xu, Soha Hassoun, Li-Ping Liu. Preprint on Arxiv.
+ * [Graph Generative Pre-trained Transformer](https://arxiv.org/abs/2501.01073) Xiaohui Chen, **Yinkai Wang**, Jiaxing He, Yuanqi Du, Xiaolin Xu, Soha Hassoun, Li-Ping Liu. Reasrch paper for ICML 2025.
  * [On Separate Normalization in Self-supervised Transformers](https://neurips.cc/virtual/2023/poster/71078) Xiaohui Chen, **Yinkai Wang**, Yuanqi Du, Soha Hassoun, Liping Liu. Research paper for NeurIPS 2023.
  * [A Survey on Deep Graph Generation: Methods and Applications.](https://openreview.net/forum?id=Im8G9R1boQi) **Yinkai Wang\***, Yanqiao Zhu\*, Yuanqi Du\*, Jieyu Zhang, Qiang Liu, Shu Wu. Survey on LoG.
  * [Small Molecule Generation via Disentangled Representation Learning.](https://academic.oup.com/bioinformatics/article-abstract/38/12/3200/6576627) Yuanqi Du, Xiaojie Guo, **Yinkai Wang**, Amarda Shehu, Liang Zhao. Research paper for Bioinformatics. 
